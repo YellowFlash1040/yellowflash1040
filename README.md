@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">
-    <strong>🔥 Languages & Frameworks & Tools & Abilities 🔥</strong>
-</p>
-
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
 <div align="center">
