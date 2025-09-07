@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 </table>
 
 <div align=center> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&repeat=false&vCenter=true&width=1000&height=50&lines=“One+day,+I’m+definitely+going+to+become+Hokage!”;" alt="“One day, I’m definitely going to become Hokage!”" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=EA9828&size=30&center=true&repeat=false&vCenter=true&width=1000&height=50&lines=“One+day,+I’m+definitely+going+to+become+Hokage!”;" alt="“One day, I’m definitely going to become Hokage!”" />
 </div>
 
 <br>
