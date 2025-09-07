@@ -134,9 +134,9 @@ Here are some ideas to get you started:
 <br>
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub logo" width="32px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub logo" width="32px" style="margin-right: 10px;"/>
     <span>GitHub Stats</span>
-    <img src="https://www.svgrepo.com/show/254961/stats-graph.svg" alt="Graph icon" width="32px" />
+    <img src="https://www.svgrepo.com/show/254961/stats-graph.svg" alt="Graph icon" width="32px" style="margin-left: 10px;"/>
 </h2>
 
 <br>
