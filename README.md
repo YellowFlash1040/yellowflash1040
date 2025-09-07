@@ -66,7 +66,7 @@ Here are some ideas to get you started:
         <br>React
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" width="44" height="44"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="44" height="44"/>
         <br>Next.js
       </td>
       <td align="center" width="88">
