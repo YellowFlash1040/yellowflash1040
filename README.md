@@ -96,7 +96,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="44" height="44"/>
+        <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="Linux" width="44" height="44"/>
         <br>Linux
       </td>
       <td align="center" width="88">
