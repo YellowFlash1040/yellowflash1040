@@ -78,7 +78,7 @@ Here are some ideas to get you started:
         <br>Node.js
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" width="44" height="44"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" width="44" height="44"/>
         <br>Express
       </td>
       <td align="center" width="88">
