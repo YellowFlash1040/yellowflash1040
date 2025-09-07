@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-    <strong style="font-size:24px;">🔥 Languages & Frameworks & Tools & Abilities 🔥</strong>
+    <strong style="font-size:36px;">🔥 Languages & Frameworks & Tools & Abilities 🔥</strong>
 </p>
 
 <br>
