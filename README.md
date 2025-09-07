@@ -104,7 +104,7 @@ Here are some ideas to get you started:
         <br>Ubuntu
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" width="44" height="44"/>
+        <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt=".NET" width="44" height="44"/>
         <br>.NET
       </td>
       <td align="center" width="88">
