@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-    <h1>Andrii Kovtunets</h1>
+    <h1>Hi there 👋</h1>
 </div>
 
 <br>
