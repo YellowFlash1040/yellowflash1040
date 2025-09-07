@@ -147,7 +147,7 @@ Here are some ideas to get you started:
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=YellowFlash1040&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true&custom_title=Github+Stats&hide=contribs,issues&title_color=000000" alt="Andrii Kovtunets github stats" />  
     </td>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowFlash1040&layout=compact&theme=vue&hide_border=true" alt="Most used languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowFlash1040&layout=compact&hide_border=true&title_color=000000" alt="Most used languages" />
     </td>
   </tr>
   <tr>
