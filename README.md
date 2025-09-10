@@ -144,7 +144,7 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=YellowFlash1040&show_icons=true&hide_border=true&hide_rank=true&custom_title=Github+Stats&hide=contribs,issues&title_color=000000&icon_color=ea9828" alt="Andrii Kovtunets github stats" />  
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=YellowFlash1040&show_icons=true&hide_border=true&hide_rank=true&custom_title=Github+Stats&hide=contribs,issues&title_color=000000&icon_color=ea9828&include_all_commits=true" alt="Andrii Kovtunets github stats" />  
     </td>
     <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowFlash1040&layout=compact&hide_border=true&title_color=000000" alt="Most used languages" />
