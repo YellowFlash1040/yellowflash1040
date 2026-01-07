@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 
 <div align="center">
