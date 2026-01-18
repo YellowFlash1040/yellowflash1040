@@ -141,21 +141,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-        <img align="center" src="https://github-readme-stats-ngjgb7tme-andriis-projects-f9ec9c69.vercel.app/api?username=YellowFlash1040&show_icons=true&hide_border=true&hide_rank=true&custom_title=Github+Stats&hide=contribs,issues&title_color=000000&icon_color=ea9828&include_all_commits=true" alt="Andrii Kovtunets github stats" />  
-    </td>
-    <td>
-        <img align="center" src="https://github-readme-stats-ngjgb7tme-andriis-projects-f9ec9c69.vercel.app/api/top-langs/?username=YellowFlash1040&layout=compact&hide_border=true&title_color=000000" alt="Most used languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-        <img src="https://github-readme-streak-stats-murex-eight.vercel.app?user=YellowFlash1040&hide_border=true&background=f6f8fa&date_format=j%20M%5B%20Y%5D" alt="Andrii Kovtunets GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-modern.vercel.app/api/insight?username=YellowFlash1040&theme=github_light&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
 <div align=center> 
     <img src="https://readme-typing-svg.herokuapp.com?color=EA9828&size=30&center=true&repeat=false&vCenter=true&width=1000&height=50&lines=“One+day,+I’m+definitely+going+to+become+Hokage!”;" alt="“One day, I’m definitely going to become Hokage!”" />
