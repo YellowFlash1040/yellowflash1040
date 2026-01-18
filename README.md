@@ -149,10 +149,22 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=EA9828&size=30&center=true&repeat=false&vCenter=true&width=1000&height=50&lines=“One+day,+I’m+definitely+going+to+become+Hokage!”;" alt="“One day, I’m definitely going to become Hokage!”" />
 </div>
 
-<br>
+<!-- <br>
 
 <div align="center">
     <a href="https://www.codewars.com/users/YellowFlash1040">
         <img src="https://www.codewars.com/users/YellowFlash1040/badges/small">
     </a>
 </div>
+
+<br> -->
+
+<h2 align="center">Contacts</h2>
+<p align="center">
+  <a href="mailto:kovtunets33@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/andrii-kovtunets"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YellowFlash1040&color=blueviolet" alt="Visitor Counter">
+</p> -->
