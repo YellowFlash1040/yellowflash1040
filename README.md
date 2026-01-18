@@ -152,7 +152,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td colspan=2 align="center">
-        <img src="https://streak-stats.demolab.com?user=YellowFlash1040&hide_border=true&background=f6f8fa&date_format=j%20M%5B%20Y%5D" alt="Andrii Kovtunets GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats-murex-eight.vercel.app?user=YellowFlash1040&hide_border=true&background=f6f8fa&date_format=j%20M%5B%20Y%5D" alt="Andrii Kovtunets GitHub Streak Stats" />
     </td>
   </tr>
 </table>
