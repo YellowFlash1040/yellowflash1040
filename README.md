@@ -44,19 +44,19 @@ Here are some ideas to get you started:
         <br>Git
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="44" height="44"/>
-        <br>HTML5
+        <img src="https://www.svgrepo.com/show/373669/html.svg" alt="HTML" width="44" height="44"/>
+        <br>HTML
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="44" height="44"/>
-        <br>CSS3
+        <img src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS" width="44" height="44"/>
+        <br>CSS
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="44" height="44"/>
+        <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="44" height="44"/>
         <br>JavaScript
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="44" height="44"/>
+        <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" width="44" height="44"/>
         <br>TypeScript
       </td>
     </tr>
@@ -64,10 +64,6 @@ Here are some ideas to get you started:
       <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="44" height="44"/>
         <br>React
-      </td>
-      <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="44" height="44"/>
-        <br>Next.js
       </td>
       <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" width="44" height="44"/>
@@ -82,12 +78,16 @@ Here are some ideas to get you started:
         <br>Express
       </td>
       <td align="center" width="88">
+        <img src="https://www.svgrepo.com/show/306753/socket-dot-io.svg" alt="Socket.io" width="44" height="44"/>
+        <br>Sockets
+      </td>
+      <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="44" height="44"/>
         <br>MongoDB
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="44" height="44"/>
-        <br>MySQL
+        <img src="https://cdn-icons-png.freepik.com/512/17266/17266015.png" alt="SQL" width="44" height="44"/>
+        <br>SQL
       </td>
       <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="44" height="44"/>
@@ -100,32 +100,32 @@ Here are some ideas to get you started:
         <br>Linux
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" width="44" height="44"/>
-        <br>Ubuntu
+        <img src="https://www.svgrepo.com/show/374111/swagger.svg" alt="Swagger" width="44" height="44"/>
+        <br>Swagger
       </td>
       <td align="center" width="88">
-        <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt=".NET" width="44" height="44"/>
-        <br>.NET
+        <img src="https://www.asyncapi.com/favicon.ico" alt="Async API" width="44" height="44"/>
+        <br>Async API
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="44" height="44"/>
-        <br>Figma
+        <img src="https://www.echoapi.com/owl_dark.svg" alt="Echo API" width="44" height="44"/>
+        <br>Echo API
       </td>
       <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="44" height="44"/>
         <br>Vite
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" alt="Webpack" width="44" height="44"/>
-        <br>Webpack
+        <img src="https://vitest.gallerycdn.vsassets.io/extensions/vitest/explorer/1.50.1/1775042142102/Microsoft.VisualStudio.Services.Icons.Default" alt="Vitest" width="44" height="44"/>
+        <br>Vitest
       </td>
       <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="44" height="44"/>
         <br>VS Code
       </td>
       <td align="center" width="88">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" width="44" height="44"/>
-        <br>Bash
+        <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Shell" width="44" height="44"/>
+        <br>Shell
       </td>
     </tr>
   </table>
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">
+<!-- <h2 align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub logo" width="32px" />
     <span>GitHub Stats</span>
     <img src="https://www.svgrepo.com/show/254961/stats-graph.svg" alt="Graph icon" width="32px" />
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-stats-modern.vercel.app/api/insight?username=YellowFlash1040&theme=github_light&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
-</p>
+</p> -->
 
 <div align=center> 
     <img src="https://readme-typing-svg.herokuapp.com?color=EA9828&size=30&center=true&repeat=false&vCenter=true&width=1000&height=50&lines=“One+day,+I’m+definitely+going+to+become+Hokage!”;" alt="“One day, I’m definitely going to become Hokage!”" />
