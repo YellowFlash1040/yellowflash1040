@@ -110,12 +110,12 @@ Here are some ideas to get you started:
         <br>Swagger
       </td>
       <td align="center" width="88">
-        <img src="https://www.asyncapi.com/favicon.ico" alt="Async API" width="44" height="44"/>
-        <br>Async API
+        <img src="https://www.asyncapi.com/favicon.ico" alt="AsyncAPI" width="44" height="44"/>
+        <br>AsyncAPI
       </td>
       <td align="center" width="88">
-        <img src="https://www.echoapi.com/owl_dark.svg" alt="Echo API" width="44" height="44"/>
-        <br>Echo API
+        <img src="https://www.echoapi.com/owl_dark.svg" alt="EchoAPI" width="44" height="44"/>
+        <br>EchoAPI
       </td>
       <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="44" height="44"/>
