@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 <br>
 
+<div align=center> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=EA9828&size=30&center=true&repeat=false&vCenter=true&width=1000&height=50&lines=“One+day,+I’m+definitely+going+to+become+Hokage!”;" alt="“One day, I’m definitely going to become Hokage!”" />
+</div>
+
+<br>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 
@@ -133,7 +139,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- <h2 align="center">
+<h2 align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="GitHub logo" width="32px" />
     <span>GitHub Stats</span>
     <img src="https://www.svgrepo.com/show/254961/stats-graph.svg" alt="Graph icon" width="32px" />
@@ -141,13 +147,17 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-stats-modern.vercel.app/api/insight?username=YellowFlash1040&theme=github_light&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p> -->
 
-<div align=center> 
+<p align="center">
+  <img src="https://github-stats-modern.vercel.app/api/insight?username=YellowFlash1040&theme=github_light&graph=false&languages=true&streak=false&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
+
+<!-- <div align=center> 
     <img src="https://readme-typing-svg.herokuapp.com?color=EA9828&size=30&center=true&repeat=false&vCenter=true&width=1000&height=50&lines=“One+day,+I’m+definitely+going+to+become+Hokage!”;" alt="“One day, I’m definitely going to become Hokage!”" />
-</div>
+</div> -->
 
 <!-- <br>
 
