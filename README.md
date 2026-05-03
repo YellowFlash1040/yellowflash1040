@@ -85,7 +85,7 @@ Here are some ideas to get you started:
       </td>
       <td align="center" width="88">
         <img src="https://www.svgrepo.com/show/306753/socket-dot-io.svg" alt="Socket.io" width="44" height="44"/>
-        <br>Sockets
+        <br>Socket.io
       </td>
       <td align="center" width="88">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="44" height="44"/>
